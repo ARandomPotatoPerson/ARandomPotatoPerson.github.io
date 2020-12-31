@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<title> Richard Zhao's Personal Pet Projects </title>
