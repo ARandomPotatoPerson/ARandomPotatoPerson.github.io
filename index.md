@@ -7,10 +7,11 @@
 <h4>A repository showcasing all previous works, professional or personal.</h4><br>
 </a>
 <br>
-<a class = "music">
+<!--a class = "music">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/5qap5aO4i9A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</a>
-<a class="listings"><ul>
+</a-->
+<a class="listings">
+<ul>
 	<li> Major Projects
 	<ul>
 		<li><a href="https://gamingcrab0.itch.io/gatech-proto" target="_blank">Twine Game</a></li>
@@ -19,12 +20,13 @@
 	
 	<li> Personal Works
 	<ul>
-	<li><a href="/projects/start_code/index.html" target="_blank">Attempt to Copy Yelp</a></li>
-	<!--<li><a href="/projects/starting_accordion/index.html" target="_blank">2nd Item</a></li>-->
-	<li><a href="/projects/starting_code/index.html" target="_blank">A Version of a Pokedex</a></li>
-	<li><a href="/projects/startingCode/index.html" target="_blank">Javascript Testing</a></li>
+		<li><a href="/projects/start_code/index.html" target="_blank">Attempt to Copy Yelp</a></li>
+		<!--<li><a href="/projects/starting_accordion/index.html" target="_blank">2nd Item</a></li>-->
+		<li><a href="/projects/starting_code/index.html" target="_blank">A Version of a Pokedex</a></li>
+		<li><a href="/projects/startingCode/index.html" target="_blank">Javascript Testing</a></li>
 	</ul>
 	</li>
-</ul></a>
+</ul>
+</a>
 </body>
 </html>
