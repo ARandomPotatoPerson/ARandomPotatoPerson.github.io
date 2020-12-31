@@ -1,3 +1,7 @@
 .heading {
-	text-align: "center"
+	text-align: "center";
+	width: 100%;
+	border: 5px solid gray;
+	color: white;
+	background-color: black;
 }
