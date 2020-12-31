@@ -1,8 +1,7 @@
 <html>
 <head>
-	<embed src="/music/good_enough.mp3" width="180" height="90" loop="false" autostart="false" hidden="true" />
-	<title> Richard Zhao's Personal Pet Projects </title>
-	<link rel="stylesheet" href="styles.css">
+	<!--embed src="/music/good_enough.mp3" width="180" height="90" loop="false" autostart="false" hidden="true" /-->
+	<link rel="stylesheet" href="/styles.css">
 </head>
 <body>
 <a class="heading">
