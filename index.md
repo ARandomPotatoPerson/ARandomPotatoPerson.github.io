@@ -7,7 +7,10 @@
 <h4>A repository showcasing all previous works, professional or personal.</h4><br>
 </a>
 <br>
-<ul>
+<a class = "music">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/5qap5aO4i9A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</a>
+<a class="listings"><ul>
 	<li> Major Projects
 	<ul>
 		<li><a href="https://gamingcrab0.itch.io/gatech-proto" target="_blank">Twine Game</a></li>
@@ -22,6 +25,6 @@
 	<li><a href="/projects/startingCode/index.html" target="_blank">Javascript Testing</a></li>
 	</ul>
 	</li>
-</ul>
+</ul></a>
 </body>
 </html>

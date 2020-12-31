@@ -6,6 +6,11 @@ a.heading {
 	width: 100%;
 }
 
+a.music {
+	display: block;
+	width: 40%;
+}
+
 a.listings {
 	display: block;
 	border: 5px solid gray;
