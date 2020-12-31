@@ -6,8 +6,7 @@
 </head>
 <body>
 <a class="heading">
-Personal Pet Projects
-
+Personal Pet Projects<br><br>
 A repository showcasing all previous works, professional or personal.
 </a>
 <ul>
