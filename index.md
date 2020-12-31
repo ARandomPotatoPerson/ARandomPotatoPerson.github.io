@@ -3,7 +3,6 @@
 <link rel="stylesheet" href="/styles.css">
 
 <head>
-	<href id = "buttons"> Home </>
 </head>
 
 <body>
