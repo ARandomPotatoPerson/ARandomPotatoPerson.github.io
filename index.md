@@ -5,7 +5,7 @@
 	<link rel="stylesheet" href="styles.css">
 </head>
 <body>
-</a class="heading">
+<a class="heading">
 Personal Pet Projects
 
 A repository showcasing all previous works, professional or personal.
