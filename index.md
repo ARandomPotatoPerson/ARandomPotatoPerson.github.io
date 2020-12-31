@@ -6,6 +6,7 @@
 <h1>Personal Pet Projects</h1>
 <h4>A repository showcasing all previous works, professional or personal.</h4><br>
 </a>
+<br>
 <ul>
 	<li> Major Projects
 	<ul>
