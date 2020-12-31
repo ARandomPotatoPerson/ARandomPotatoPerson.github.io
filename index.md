@@ -1,11 +1,9 @@
 <html>
-<head>
-	<!--embed src="/music/good_enough.mp3" width="180" height="90" loop="false" autostart="false" hidden="true" /-->
-	<link rel="stylesheet" href="/styles.css">
-</head>
+<!--embed src="/music/good_enough.mp3" width="180" height="90" loop="false" autostart="false" hidden="true" /-->
+<link rel="stylesheet" href="/styles.css">
 <body>
 <a class="heading">
-<h1>Personal Pet Projects</h1><br>
+<h1>Personal Pet Projects</h1>
 <h4>A repository showcasing all previous works, professional or personal.</h4><br>
 </a>
 <ul>

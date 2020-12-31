@@ -3,6 +3,7 @@ a.heading {
 	text-align: center;
 	border: 5px solid gray;
 	background-color: black;
+	width: 100%;
 }
 
 h1 {
