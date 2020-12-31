@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+}
+
+li {
+	display: block;
+	clear: both;
+}
+
+img {
+	float: left;
+	text-align: center;
+}
+
+.mainName{
+	float: right;
+	vertical-align: middle;
+}
+
+.mainName.flip {
+	float: right;
+	vertical-align: middle;
+	
+	transform: rotate(180deg);
+}
+
+.mainTxt{
+	float: left;
+	display: inline;
+	vertical-align: middle;
+}
+
+.out {
+	clear: both;
+}
+
+.txt {
+	vertical-align: center;
+}
+
+.sublist {
+	overflow: hidden;
+	height: 0;
+}
+
+.subtxt {
+	vertical-align: middle;
+}
+
+.sublist.show {
+	overflow: visible;
+}
+
+.subImg {
+	vertical-align: middle;
+}
+
+.sublistelement {
+	height: 100px;
+	clear: both;
+}
