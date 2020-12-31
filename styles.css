@@ -7,7 +7,7 @@ a.heading {
 }
 
 a.music {
-	display: block;
+	display: inline-block;
 	width: 40%;
 }
 
