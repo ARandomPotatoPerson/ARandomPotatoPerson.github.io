@@ -6,6 +6,11 @@ a.heading {
 	width: 100%;
 }
 
+a.listings {
+	display: block;
+	border: 5px solid gray;
+}
+
 h1 {
 	color: white;
 }
@@ -16,5 +21,9 @@ h4 {
 
 body {
 	width: 100%;
+}
+
+li {
+	margin: 5px 0px;
 }
 	
