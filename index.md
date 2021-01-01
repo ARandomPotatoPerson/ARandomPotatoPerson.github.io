@@ -1,20 +1,41 @@
 <html>
 <!--embed src="/music/good_enough.mp3" width="180" height="90" loop="false" autostart="false" hidden="true" /-->
-<link rel="stylesheet" href="/styles.css">
 
 <head>
+	<link rel="stylesheet" href="styles.css">
+	<a href="index.html"><div id = "buttons"><src id="button-text">Home</src></button></div></a>
+	<a href="index.html"><div id = "buttons"><src id="button-text">About Me</src></button></div></a>
+	<a href="petProjects.html"><div id = "buttons"><src id="button-text">Projects</src></button></div></a>
+	<a href="index.html"><div id = "buttons"><src id="button-text">Resume </src></button></div></a>
+	<a href="index.html"><div id = "buttons"><src id="button-text">Contact</src></button></div></a>
 </head>
 
 <body>
 <a class="heading">
-<h1>Richard Zhao's Website</h1>
-<h4>A WIP website to showcase myself.</h4><br>
+<div id = "container">
+	<div id="opacityControl"><h1>Richard Zhao's Website</h1>
+	<h4>A WIP website to showcase myself.</h4></div>
+</div>
 </a>
-<br>
-<!--a class = "music">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/5qap5aO4i9A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</a-->
 
+<div id = "brief">
+	<div id = "leftSide">
+		A Brief Overview Of Myself
+	</div>
+	
+	<div id = "rightSide">
+		<div id = "AboutMe">
+			I am Richard Zhao
+			<span>I am CS undergraduate attending the Georgia Institute of Technology. 
+				This website, along with many of the projects I have, is the result of my passion and intrigue into the field of CS, which I hope I will be able to continue
+				to work within in the future.</span>
+		</div>
+		<div id="projects">
+			Notable Projects Include:
+			<!-- TODO IMPLEMENTATION -->
+		</div>
+	</div>
+</div>
 
 </body>
 </html>
