@@ -1,0 +1,124 @@
+#resumeBody {
+	overflow: hidden;
+	background-color: teal;
+}
+
+a.heading {
+	display: block;
+	text-align: center;
+	background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+	color: transparent;
+	width: 100%;
+	padding-top: 3%;
+	padding-bottom: 3%;
+	overflow: hidden;
+}
+
+#container {
+	background: rgba(0,0,0,0.3);
+	margin-left: 30%;
+	width: 38%;
+	padding: 1%;
+	position: relative;
+}
+
+h1 {
+	color: white;
+	font-size: 50px;
+}
+
+#projects {
+	display: inline-block;
+	overflow: hidden;
+	height: 100%;
+	float: left;
+	padding-top: 2%;
+	padding-left: 2%;
+	text-align: center;
+	background-color: teal;
+	width: 72.5%;
+	font-size: 24;
+	color: white;
+}
+
+#project1 {
+	display: inline-block;
+	float: left;
+	margin: 1%;
+	background-color: black;
+	padding-top: 10px;
+	margin-right: 80px;
+	margin-left: 100px;
+	padding-bottom: 6%;
+	width: 408px;
+	height: 240px;
+	color: white;
+	font-size: 20;
+}
+
+
+#project2 {
+	display: inline-block;
+	float: left;
+	margin: 1%;
+	background-color: black;
+	padding-bottom: 6%;
+	padding-top: 10px;
+	width: 408px;
+	height: 240px;
+	color: white;
+	font-size: 20;
+}
+
+#text {
+	font-size: 16;
+}
+
+#listings {
+	background-color: navy;
+	height: 100%;
+	padding-top: 2%;
+	color: white;
+}
+
+#title {
+	padding-left: 50%;
+	display: inline-block;
+	font-size: 20;
+}
+
+#box {
+	display: inline-block;
+	text-align: left;
+}
+
+#tab {
+	padding-top: 10px;
+	font-size: 16;
+}
+
+#tab1 {
+	padding-top: 10px;
+	font-size: 18;
+}
+
+a.nav-link:link
+{
+   color: white;
+   text-decoration: underline;
+}
+a.nav-link:visited
+{
+   color: white;
+   text-decoration: none;
+}
+a.nav-link:hover
+{
+   color: white;
+   text-decoration: none;
+}
+a.nav-link:active
+{
+   color: white;
+   text-decoration: none;
+}

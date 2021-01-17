@@ -1,33 +1,59 @@
 
 <html>
 <!--embed src="/music/good_enough.mp3" width="180" height="90" loop="false" autostart="false" hidden="true" /-->
-<link rel="stylesheet" href="/styles.css">
+
+<head>
+	<link rel="stylesheet" href="Css/header.css">
+	<link rel="stylesheet" href="Css/projects.css">
+	<a href="index.html"><div id = "buttons"><src id="button-text">Home</src></div></a>
+	<!--a href="aboutMe.html"><div id = "buttons"><src id="button-text">About Me</src></div></a-->
+	<a href="petProjects.html"><div id = "buttons"><src id="button-text">Projects</src></div></a>
+	<a href="resume.html"><div id = "buttons"><src id="button-text">Resume </src></div></a>
+	<!--a href="index.html"><div id = "buttons"><src id="button-text">Contact</src></div></a-->
+</head>
+
 <body>
+
 <a class="heading">
-<h1>Personal Pet Projects</h1>
-<h4>A repository showcasing all previous works, professional or personal.</h4><br>
+<div id = "container">
+	<h1>Richard Zhao's Website</h1>
+</div>
 </a>
-<br>
-<!--a class = "music">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/5qap5aO4i9A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</a-->
-<a class="listings">
+
+<div id="projects">
+			Notable Projects Include:
+			<br><br>
+			<a href="https://gamingcrab0.itch.io/gatech-proto">
+				<div id="project1"> Twine Game <br> <img src="Images/Twine.png" alt="Twine Can Be Found Here" width="406" height="214" style="padding-top: 10px;padding-bottom: 10px">
+				<div id="text">A basic text based game featuring branching game paths. Created using a combination of Twine, Javascript and C++.</div>
+				</div>
+			</a>
+			<a href="https://arandompotatoperson.github.io/">
+				<div id="project2"> Personal Website <br> <img src="Images/website2.png" alt="Picture of This Website" width="406" height="214" style="padding-top: 10px;padding-bottom: 10px">
+				<div id="text">A basic text based game featuring branching game paths. Created using a combination of Twine, Javascript and C++.</div>
+			</div></a>
+		</div>
+
+<div id="listings">
+<div id = "box">
+<div id="title">Other Projects</div>
 <ul>
-	<li> Major Projects
+	<li id="tab1"> Upcoming Major Projects
 	<ul>
-		<li><a href="https://gamingcrab0.itch.io/gatech-proto" target="_blank">Twine Game</a></li>
+		<li id="tab">Tetris Game: A recreation of the <br> classic game created in Java.</li>
 	</ul>
 	</li>
 	
-	<li> Personal Works
+	<li id="tab1"> Minor HTML Experiments
 	<ul>
-		<li><a href="/projects/start_code/index.html" target="_blank">Attempt to Copy Yelp</a></li>
+		<li id="tab"><a href="projects/start_code/index.html" target="_blank" class="nav-link"> Attempt to Copy Yelp</a></li>
 		<!--<li><a href="/projects/starting_accordion/index.html" target="_blank">2nd Item</a></li>-->
-		<li><a href="/projects/starting_code/index.html" target="_blank">A Version of a Pokedex</a></li>
-		<li><a href="/projects/startingCode/index.html" target="_blank">Javascript Testing</a></li>
+		<li id="tab"><a href="projects/starting_code/index.html" target="_blank" class="nav-link">A Version of a Pokedex</a></li>
+		<li id="tab"><a href="projects/startingCode/index.html" target="_blank" class="nav-link">Javascript Testing</a></li>
 	</ul>
 	</li>
 </ul>
-</a>
+</div>
+</div>
 </body>
 </html>

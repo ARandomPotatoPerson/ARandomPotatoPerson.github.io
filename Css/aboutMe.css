@@ -1,0 +1,82 @@
+a.heading {
+	display: block;
+	text-align: right;
+	background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+	color: transparent;
+	width: 100%;
+	padding-top: 3%;
+	padding-bottom: 3%;
+	overflow: hidden;
+}
+
+#container {
+	background: rgba(0,0,0,0.3);
+	margin-left: 35%;
+	width: 25%;
+	position: relative;
+}
+
+#textControl {
+	display: inline-block;
+}
+
+#picControl {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 20;
+	margin-right: 20;
+	margin-bottom: 10;
+}
+
+h1 {
+	color: white;
+	font-size: 50px;
+	display: inline-block;
+	float: top;
+}
+
+h4 {
+	color: white;
+	font-size: 24px;
+	text-align: center;
+}
+
+#picture {
+	width: 360;
+	height: 100%;
+	background-color: black;
+	display: inline-block;
+	float: right;
+}
+
+/*#ovalSize {
+	margin-left: 40;
+	margin-top: 5;
+	width: 300;
+	height: 450;
+	border-radius: 50%;
+} Depreciated Usage. Originally designed for a different layout.*/
+
+#ovalSize {
+	width: 133;
+	height: 200;
+	border-radius: 50%;
+	display: inline-block;
+}
+
+#ello {
+	background-color: teal;
+	margin: 1%;
+	margin-right: 2%;
+	margin-top: 2%;
+	color: white;
+	height: 100%;
+	width: 60%;
+	overflow: hidden;
+	float: left;
+}
+
+#more {
+	overflow: hidden;
+	background-color: teal;
+}

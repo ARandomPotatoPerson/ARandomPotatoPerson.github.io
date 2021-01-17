@@ -1,0 +1,157 @@
+a.heading {
+	display: block;
+	text-align: center;
+	background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+	color: transparent;
+	width: 100%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	overflow: hidden;
+}
+
+#container {
+	background: rgba(0,0,0,0.3);
+	margin-left: 30%;
+	width: 38%;
+	padding: 1%;
+	position: relative;
+}
+
+#opacityControl {
+	overflow: hidden;
+}
+
+head {
+	margin: 0px;
+}
+
+body {
+	margin: 0px;
+}
+
+#buttons {
+	display: inline-block;
+	background-color: navy;
+	color: white;
+	height: 5%;
+	width: 33.33%;
+	float: left;
+	text-align: center;
+	margin: 0px;
+	transition: 0.3s;
+}
+
+#button-text {
+	display: inline-block;
+	position: relative;
+	top: 25%;
+}
+
+#buttons:hover {
+	background-color: dodgerblue;
+}
+
+
+head {
+	height: 5%;
+}
+
+a.music {
+	display: inline-block;
+	width: 40%;
+}
+
+a.listings {
+	display: block;
+}
+
+h1 {
+	color: white;
+	font-size: 50px;
+}
+
+h4 {
+	color: white;
+	font-size: 24px;
+	text-align: center;
+}
+
+body {
+	width: 100%;
+	overflow: hidden;
+}
+
+li {
+	margin: 5px 0px;
+}
+
+#leftSide {
+	display: inline-block;
+	width: 20%;
+	overflow: hidden;
+	padding-left: 1.5%;
+	padding-top: 5%;
+	font-size: 40px; 
+	background-color: navy;
+	height: 100%; /*This is super trash and should be changed */
+	color: white;
+	float: left;
+}
+
+#aboutMe {
+	display: inline-block;
+	height: 100%;
+	float: left;
+	width: 20%;
+	background-color: teal;
+	padding-top: 0%;
+	padding-left: 2%;
+	padding-right: 2%;
+	border-right: 5px solid black;
+}
+
+#projects {
+	display: inline-block;
+	height: 100%;
+	float: left;
+	padding-top: 2%;
+	padding-left: 2%;
+	text-align: center;
+	background-color: teal;
+	width: 72.5%;
+}
+
+#project1 {
+	display: inline-block;
+	float: left;
+	margin: 1%;
+	background-color: black;
+	padding-top: 10px;
+	margin-right: 80px;
+	margin-left: 40px;
+	width: 340px;
+	height: 200px;
+	color: white;
+}
+
+
+#project2 {
+	display: inline-block;
+	float: left;
+	margin: 1%;
+	background-color: black;
+	padding-top: 10px;
+	width: 340px;
+	height: 200px;
+	color: white;
+}
+
+#rightSide {
+	display: inline-block;
+	background-color: teal;
+	position: relative;
+	width: 78.5%;
+	height: 100%;
+	color: white;
+}
+	
